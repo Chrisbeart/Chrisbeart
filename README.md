@@ -48,16 +48,16 @@ I'm currently focusing on expanding my expertise in the following areas:
 ---
 
 ## 📈 GitHub Stats:
-![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Chrisbeart's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chrisbeart&show_icons=true&theme=radical&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisbeart&layout=compact&theme=radical)
 
 ---
 
 ## 🌍 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Chrisbeart)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=globe&logoColor=white)](https://your-portfolio-link.com)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/Chrisbeart)
 
 ---
 
