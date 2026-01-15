@@ -1,65 +1,81 @@
-# 🌟 Welcome to My GitHub Profile! 🌟
+### Hi, I'm Chris
 
-Hi there! 👋 I'm **Chris**, a passionate **Full-Stack Developer** and **Cloud Engineer** with a strong focus on building efficient, scalable solutions and automating complex workflows. I enjoy diving into new technologies, contributing to open source, and creating impactful projects. 🚀
+**Full-Stack Developer & Cloud Engineer** based in Munich, Germany.
 
----
-
-## 🔧 Tech Stack & Tools:
-### **Programming Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
-
-### **Backend Development**
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-
-### **DevOps & Cloud**
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
+I build enterprise software, automate infrastructure, and develop AI-powered solutions. Currently working on integrating AI agents into business workflows and building scalable cloud architectures.
 
 ---
 
-## 🎓 Certifications:
-- 📜 **Linux Essentials** (LPI)
-- 📜 **AWS Cloud Practitioner** (AWS)
-- 📜 **Microsoft Azure Fundamentals** (Microsoft)
-- 📜 **ISTQB Foundation Level** (ISTQB)
-- 📜 **Scrum Master** (Scrum Alliance)
+#### What I Do
+
+**AI & Automation**
+- Building intelligent agents for Jira/Atlassian (Forge/Rovo)
+- Developing conversational AI with Rasa and custom NLP pipelines
+- Automating enterprise workflows with AI-driven decision making
+
+**Cloud & Infrastructure**
+- Designing and deploying cloud infrastructure on AWS & Azure
+- Infrastructure as Code with Terraform and Ansible
+- CI/CD pipelines with GitHub Actions and containerized deployments
+
+**Full-Stack Development**
+- Enterprise applications with React, Node.js, and TypeScript
+- Backend systems with Python and PHP
+- Database design with MySQL, PostgreSQL, and Oracle
 
 ---
 
-## 🌱 What I'm Learning:
-I'm currently focusing on expanding my expertise in the following areas:
+#### Tech Stack
 
-1. **Advanced Terraform**: Enhancing my skills in creating scalable and reusable infrastructure-as-code (IaC) modules for cloud-native environments.
-2. **Advanced Ansible**: Deepening my understanding of automation and configuration management for efficient deployment processes.
-3. **Docker**: Mastering containerization techniques to streamline application development and deployment workflows.
-4. **GitHub Actions for CI/CD**: Building robust continuous integration and continuous deployment pipelines to automate software delivery.
-
----
-
-## 📈 GitHub Stats:
-![Chrisbeart's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chrisbeart&show_icons=true&theme=radical&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisbeart&layout=compact&theme=radical)
-
----
-
-## 🌍 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Chrisbeart)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=globe&logoColor=white)](https://your-portfolio-link.com)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/Chrisbeart)
+```text
+Languages:      TypeScript, JavaScript, Python, PHP, HCL, SQL
+Frontend:       React, Next.js, Vite, Tailwind CSS
+Backend:        Node.js, Express, FastAPI, Flask
+Databases:      MySQL, PostgreSQL, Oracle, MongoDB
+Cloud:          AWS, Azure, Docker, Kubernetes
+IaC:            Terraform, Ansible, CloudFormation
+AI/ML:          Rasa, LangChain, OpenAI API, Anthropic Claude
+DevOps:         GitHub Actions, GitLab CI, ArgoCD
+```
 
 ---
 
-## 🎯 Fun Fact:
-"When I’m not coding, you’ll find me exploring the latest tech trends, playing strategy games, or experimenting with home automation projects." 😄
+#### Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Jira-Agents](https://github.com/Chrisbeart/Jira-Agents) | AI-powered Rovo agents for automated ticket triage and IT support | Forge, JavaScript, AI |
+| [Chatbot](https://github.com/Chrisbeart/Chatbot) | Multilingual AI chatbot with Rasa NLU and LibreTranslate | Python, Rasa, React |
+| [AltenheimSoftware](https://github.com/Chrisbeart/AltenheimSoftware) | Healthcare management system for nursing homes | JavaScript, Node.js |
+| [infrastructure_auto](https://github.com/Chrisbeart/infrastructure_auto) | Terraform & Ansible automation templates for cloud deployments | HCL, YAML, Terraform |
+| [HealthDesk](https://github.com/Chrisbeart/HealthDesk) | Healthcare dashboard built with Next.js | Next.js, React |
+
+---
+
+#### Certifications
+
+- AWS Cloud Practitioner
+- Microsoft Azure Fundamentals (AZ-900)
+- Linux Essentials (LPI)
+- ISTQB Foundation Level
+- Professional Scrum Master
+
+---
+
+#### GitHub Activity
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Chrisbeart&show_icons=true&theme=github_dark&hide_border=true&hide=issues&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisbeart&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+#### Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christopher-breunig)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:christopher.breunig@outlook.de)
+
+---
+
+<sub>Munich, Germany</sub>
