@@ -131,15 +131,20 @@ Current Focus:
 
 ---
 
-### GitHub Stats
+### Activity
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Chrisbeart&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Chrisbeart&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chrisbeart&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisbeart&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Chrisbeart&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
